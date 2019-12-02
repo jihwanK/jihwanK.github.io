@@ -73,7 +73,7 @@ social-network-links:
   github: jihwanK
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: jhwan1228
+  linkedin: jihwanK
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -156,7 +156,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -253,4 +253,4 @@ plugins:
   - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+# Customed by jihwanK
